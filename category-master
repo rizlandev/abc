@@ -1,0 +1,11 @@
+{
+    "result": true,
+    "categories": [
+        {
+            "companyId": 1, 
+            "categoryId": 1,
+            "categoryName": "Cookie",
+            "sequenceId": 1
+        }
+    ]
+}
