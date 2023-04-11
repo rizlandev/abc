@@ -1,0 +1,13 @@
+{
+    "result": true,
+    "product_brand": [
+        {
+            "categoryId": 1, 
+            "pro_brnd_id": 1,
+            "pro_brnd_code": "186",
+            "pro_brnd_name": "Chekkers",
+            "pro_brnd_manager": 639,
+            "sequence_no": 1
+        }
+    ]
+}
